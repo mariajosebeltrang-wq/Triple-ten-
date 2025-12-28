@@ -11,3 +11,7 @@ Soy una apasionada de la salud con **8 años de experiencia en Laboratorio Clín
 * **Lenguajes:** Python (Pandas, NumPy, Matplotlib/Seaborn), SQL.
 * **Visualización:** Power BI / Tableau.
 * **Dominio:** Gestión de datos de laboratorio, Control de Calidad, Procesos hospitalarios.
+
+---
+Este repositorio es una colección del proceso de formación y los avances logrados a lo largo de mi formación como analista de datos.
+
